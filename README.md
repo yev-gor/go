@@ -1,8 +1,10 @@
-THIS LINE HAS BEEN ADDED TO DEMONSTRATE THE USAGE OF GIT PULL COMMAND test
+#THIS LINE HAS BEEN ADDED TO DEMONSTRATE THE USAGE OF GIT PULL COMMAND test
+#ANOTHER LINE HAS BEEN ADDED NOW
 
 [Follow me on Twitter @clarecorthell](http://bit.ly/clarecorthelltwitter)
 
 Build Machine Learning applications with us at [Mattermark](http://www.mattermark.com/app/jobs) --> [email me!](http://www.google.com/recaptcha/mailhide/d?k=01KgESkAshOFOWRMyGkcdCEQ==&c=Cmjc2-OpRImyczz0qZ2fupPU5hPh_xmcRLiawYbBE8s=)
+
 
 ## The Open-Source Data Science Masters
 
