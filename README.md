@@ -1,4 +1,4 @@
-THIS LINE HAS BEEN ADDED TO DEMONSTRATE THE USAGE OF GIT PULL COMMAND
+THIS LINE HAS BEEN ADDED TO DEMONSTRATE THE USAGE OF GIT PULL COMMAND test
 
 [Follow me on Twitter @clarecorthell](http://bit.ly/clarecorthelltwitter)
 
